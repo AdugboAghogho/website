@@ -309,22 +309,27 @@ main .the {
 
 .swiper-slide--one {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("img/gallery1.jpeg") no-repeat 50% 50%/cover;
+  border-radius: 3rem;
 }
 
 .swiper-slide--two {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("img/gallery2.jpeg") no-repeat 50% 50%/cover;
+  border-radius: 3rem;
 }
 
 .swiper-slide--three {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("img/gallery3.jpeg") no-repeat 50% 50%/cover;
+  border-radius: 3rem;
 }
 
 .swiper-slide--four {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("img/gallery4.jpeg") no-repeat 50% 50%/cover;
+  border-radius: 3rem;
 }
 
 .swiper-slide--five {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("img/gallery5.jpeg") no-repeat 50% 50%/cover;
+  border-radius: 3rem;
 }
 
 .swiper-3d .swiper-slide-shadow-left,

@@ -27,7 +27,7 @@ ul {
   padding-inline: 2.3em;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(blue, navy);
+  background: linear-gradient(rgba(0, 0, 255, 0.411), rgba(0, 0, 128, 0.541));
   overflow: hidden;
 }
 @media screen and (min-width: 960px) {
